@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## How to run
 **Run the Pipeline** : The primary script is contained in the Jupyter notebook pipeline.ipynb. This script will execute the chunking, embedding, retrieval, and evaluation processes.\
 \
-To run the pipeline, open `pipeline.ipynb` in Jupyter Notebook and run all cells. Make sure the necessary files (such as state_of_the_union.md and questions_state.csv) are present in the data directory. Cell with `run_pipeline` is currently commented out, as in the next cell there is code to test pipline with multiplme parameters, and it is done in more time efficient way, for the task.
+To run the pipeline, open `pipeline.ipynb` in Jupyter Notebook and run all cells. Make sure the necessary files (such as `state_of_the_union.md` and `questions_state.csv`) are present in the data directory. Cell with `run_pipeline` is currently commented out, as in the next cell there is code to test pipline with multiplme parameters, and it is done in more time efficient way, for the task.
 
 --- 
 ## Report
